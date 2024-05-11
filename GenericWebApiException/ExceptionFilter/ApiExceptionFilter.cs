@@ -12,7 +12,7 @@ using System.Net;
 namespace LDN.Framework.GenericException.WebApiHandler.ExceptionFilter
 {
     [ExcludeFromCodeCoverage]
-
+    ///
     public sealed class ApiExceptionFilter<T> : ExceptionFilterAttribute
     {
         private const string CORRELATION_HEADER = "x-corelation-id";

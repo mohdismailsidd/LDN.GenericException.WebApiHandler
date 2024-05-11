@@ -10,6 +10,7 @@
     <Company>LearnDotNet</Company>
     <Product>LDN.GenericException.WebApiHandler</Product>
     <Description>LDN.GenericException.WebApiHandler</Description>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
   </PropertyGroup>
 
   <ItemGroup>
